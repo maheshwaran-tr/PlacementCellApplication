@@ -1,0 +1,8 @@
+{
+  "appsail": [
+    {
+      "source": "/home/maheshwaran/maheshwaran-files/PlacementCellApplication/Server",
+      "name": "appsail-tpc"
+    }
+  ]
+}

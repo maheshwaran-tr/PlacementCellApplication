@@ -1,0 +1,30 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "8107000000007089",
+      "name": "project-tpc",
+      "domain": {
+        "id": "50020055837",
+        "name": "project-tpc-60030392746.development"
+      },
+      "timezone": "Asia/Kolkata",
+      "env": [
+        {
+          "idx": 1,
+          "id": "60030392746",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}
